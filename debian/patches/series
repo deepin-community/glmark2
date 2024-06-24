@@ -1,1 +1,7 @@
 man.patch
+
+# backports to fix IMG GPU
+0001-libmatrix-Add_Log_warning_function.patch
+0002-GLStateEGL-GLStateGLX-Change_failure_to_get_a_good_visual.patch
+0003-Options-GLStateEGL-GLStateGLX-Add_option_to_require_a_good.patch
+0004-GLVisualConfig-By_default_dont_care_about_the_stencil.patch
